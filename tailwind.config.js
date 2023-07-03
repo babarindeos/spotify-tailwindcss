@@ -19,6 +19,12 @@ export default {
       lineHeight: {
         'extra-loose' : '2.5',
       },
+      spacing: {
+        '14' : '3.5rem',
+        '22' : '5.5rem',
+        '72' : '18rem',
+        '200' : '50rem'
+      },
       animation: {
         slideup: 'slideup 1s ease-in-out',
         slidedown: 'slidedown 1s ease-in-out',
